@@ -1,2 +1,2 @@
-import main
-main.za()
+import tool
+tool.za()
